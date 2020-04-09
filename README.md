@@ -12,3 +12,5 @@ Multiclass Log Loss
 1) EDA.ipynb: Exploratory data Analysis and observations from data\
 2) modelling.ipynb: Complete approach to the problem (from feature engineering to modelling)\
 3) pipeline.ipynb: Complete pipline for best solution
+
+#### [Blog link](https://medium.com/@sooryavenkateshv/leveraging-mobile-user-demographics-to-obtain-useful-insights-using-deep-learning-25081da73fd)
