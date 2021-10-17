@@ -13,3 +13,4 @@ Multiclass Log Loss
 2) modelling.ipynb: Complete approach to the problem (from feature engineering to modelling)\
 3) pipeline.ipynb: Complete pipline for best solution
 
+https://github.com/1AishwaryaSH/Project1_Optimizing_an_ML_Pipeline_in_Azure/blob/main/udacity-project-Copy1%20(1).ipynb
