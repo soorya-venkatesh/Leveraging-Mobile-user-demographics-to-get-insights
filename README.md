@@ -14,3 +14,5 @@ Multiclass Log Loss
 3) pipeline.ipynb: Complete pipline for best solution
 
 https://github.com/1AishwaryaSH/Project1_Optimizing_an_ML_Pipeline_in_Azure/blob/main/udacity-project-Copy1%20(1).ipynb
+
+https://github.com/koettet/Udacity_Project_2
