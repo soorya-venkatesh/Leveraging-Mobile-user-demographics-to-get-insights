@@ -16,3 +16,5 @@ Multiclass Log Loss
 https://github.com/1AishwaryaSH/Project1_Optimizing_an_ML_Pipeline_in_Azure/blob/main/udacity-project-Copy1%20(1).ipynb
 
 https://github.com/koettet/Udacity_Project_2
+
+https://medium.com/@cagatayciftci/telco-customer-churn-prediction-fcaed3c4b583
