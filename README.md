@@ -18,3 +18,5 @@ https://github.com/1AishwaryaSH/Project1_Optimizing_an_ML_Pipeline_in_Azure/blob
 https://github.com/koettet/Udacity_Project_2
 
 https://medium.com/@cagatayciftci/telco-customer-churn-prediction-fcaed3c4b583
+
+https://github.com/albertwibowo/nd00333-capstone/blob/master/starter_file/hyperparameter_tuning.ipynb
